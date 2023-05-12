@@ -1,0 +1,17 @@
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\obj\Debug\net6.0-windows\PrjSalarioFuncionario.csproj.AssemblyReference.cache
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\obj\Debug\net6.0-windows\PrjSalarioFuncionario.Form1.resources
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\obj\Debug\net6.0-windows\PrjSalarioFuncionario.csproj.GenerateResource.cache
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\obj\Debug\net6.0-windows\PrjSalarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\obj\Debug\net6.0-windows\PrjSalarioFuncionario.AssemblyInfoInputs.cache
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\obj\Debug\net6.0-windows\PrjSalarioFuncionario.AssemblyInfo.cs
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\obj\Debug\net6.0-windows\PrjSalarioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\bin\Debug\net6.0-windows\PrjSalarioFuncionario.exe
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\bin\Debug\net6.0-windows\PrjSalarioFuncionario.deps.json
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\bin\Debug\net6.0-windows\PrjSalarioFuncionario.runtimeconfig.json
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\bin\Debug\net6.0-windows\PrjSalarioFuncionario.dll
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\bin\Debug\net6.0-windows\PrjSalarioFuncionario.pdb
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\obj\Debug\net6.0-windows\PrjSalarioFuncionario.dll
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\obj\Debug\net6.0-windows\refint\PrjSalarioFuncionario.dll
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\obj\Debug\net6.0-windows\PrjSalarioFuncionario.pdb
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\obj\Debug\net6.0-windows\PrjSalarioFuncionario.genruntimeconfig.cache
+C:\Users\luana.eoalima\source\repos\SlnSalarioFuncionario\PrjSalarioFuncionario\obj\Debug\net6.0-windows\ref\PrjSalarioFuncionario.dll
